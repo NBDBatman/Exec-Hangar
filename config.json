@@ -1,7 +1,7 @@
 {
-  "versionInfo": "Updated May 21, 2026 - Patch 4.8.0-LIVE - Server 11825000",
+  "versionInfo": "Updated Junw 8, 2026 - Patch 4.8.1-LIVE - Server 11952564",
   "serverStartTimes": {
-    "initialOpenTime": "2026-05-14T16:46:30.500000Z",
+    "initialOpenTime": "2026-06-05T19:47:35.211Z",
     "openDurationMs": 3900362,
     "closeDurationMs": 7200667
   },
